@@ -1,0 +1,7 @@
+answer_regex: STCTF#backticks_are_14vil#
+author: gnull
+category: pwn
+description: |
+  Эй парень, я слышал ты любишь пинг. У меня есть для тебя один: $url
+name: ping
+price: 200
