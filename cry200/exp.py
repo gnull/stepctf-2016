@@ -29,3 +29,4 @@ s.send(nmes.decode("hex")+"\n")
 s.send(nsig+"\n")
 
 print s.recv(1024)
+#
